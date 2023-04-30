@@ -41,4 +41,29 @@
 
 15. Continuously learn and improve: System design is a continuous learning process. Keep up-to-date with the latest technologies and best practices, and always look for opportunities to improve your designs.
 
+### Youtube Channel
+1. (Gaurav Sen)[https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX]
+2. (SudoCode)[https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a]
+3. (Concept && Coding)[https://www.youtube.com/@ConceptandCoding/playlists]
+
+### Beginner
+1. [System Design Interview – An Insider's Guide by Alex Xu](https://drive.google.com/file/d/1ka3Vd5jk0zJVIlzlHGJ-4qfUhutPsMCp/view?usp=share_link)
+
+### Intermediate
+1. [Designing Data-Intensive Applications by Martin Kleppmann](https://drive.google.com/file/d/16LnNNlZ_dHyYEKL9IrUaX4oSwg7WgnKv/view?usp=share_link)
+2. [Database Internals](https://drive.google.com/file/d/1AfFnxNCzngOyXSFn8_u4fq0BQZP11KnW/view?usp=share_link)
+3. [Designing Distributed Systems](https://drive.google.com/file/d/1yZVO5H6px8O3kk7OKaamaUnpif9yZhhb/view?usp=share_link)
+4. [Big Data - Principles and best practices](https://drive.google.com/file/d/1D_F60xfJ6KrkOf-C1CyK5ov9ffCz0Ftk/view?usp=share_link)
+
+### Advanced
+1. [The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems by Thomas A. Limoncelli, Strata R. Chalup, and Christina J. Hogan](https://drive.google.com/file/d/1ioIrP8rS5vrl91zkYZinhp3FffRGTzgl/view?usp=share_link)
+2. [Building Microservices](https://drive.google.com/file/d/1KznVYSWwxSm9yyeSQu2AD_eLNU7Jl1tx/view?usp=share_link)
+3. [Site Reliability Engineering: How Google Runs Production Systems" edited by Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy](https://sre.google/sre-book/table-of-contents/)
+4. [High Performance MySQL: Optimization, Backups, and Replication" by Baron Schwartz, Peter Zaitsev, and Vadim Tkachenko](https://drive.google.com/file/d/1Y5USQMYXm9Za3PiXOG1I5ypX9W1J_lR0/view?usp=share_link)
+5. [Streaming-systems-the-what-where-when-and-how-of-large-scale-data-processing](https://drive.google.com/file/d/1wumF4DdO2u2uRNXHqTdtt4cuVBCIVVz6/view?usp=share_link)
+6. "The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise" by Martin L. Abbott and Michael T. Fisher
+7. "Scalability Rules: 50 Principles for Scaling Web Sites" by Martin L. Abbott and Michael T. Fisher
+8. [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment](https://drive.google.com/file/d/1gZQEtTAtWlwvwM__mAtBY_QODgZKP-t7/view?usp=share_link)
+9. [Cloud Computing: Concepts, Technology & Architecture](https://drive.google.com/file/d/1x5MxLmmbFcaL89ODcI5EGFxkoEVbEqri/view?usp=share_link)
+
 
