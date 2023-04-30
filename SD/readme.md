@@ -44,9 +44,9 @@
 15. Continuously learn and improve: System design is a continuous learning process. Keep up-to-date with the latest technologies and best practices, and always look for opportunities to improve your designs.
 
 ### Youtube Channel
-1. (Gaurav Sen)[https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX]
-2. (SudoCode)[https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a]
-3. (Concept && Coding)[https://www.youtube.com/@ConceptandCoding/playlists]
+1. [Gaurav Sen](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+2. [SudoCode](https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+3. [Concept && Coding](https://www.youtube.com/@ConceptandCoding/playlists)
 
 ### Beginner
 1. [System Design Interview – An Insider's Guide by Alex Xu](https://drive.google.com/file/d/1ka3Vd5jk0zJVIlzlHGJ-4qfUhutPsMCp/view?usp=share_link)
