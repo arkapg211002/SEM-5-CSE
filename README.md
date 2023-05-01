@@ -6,8 +6,8 @@
 ### 2. Compiler Design ~ [Compiler-Principles Techniques and Tools By Aho](https://drive.google.com/file/d/1LNsjLzWIbNym95jdUYtoZ5C8-JdfU7Ft/view?usp=share_link)
 ### 3. Operating Systems ~ [Operating Systems by Silberschatz](https://drive.google.com/file/d/1Li8i1iFMWfMjIBK-vagf9BFcFC4ygSYb/view?usp=share_link)
 ### 4. OOPS ~
-#### [JAVA](https://drive.google.com/file/d/1Lf4Or555cHZ6zF1SAjBwoUpZMnGtIdzT/view?usp=share_link)
-#### [Object Oriented Analysis and Design](https://drive.google.com/file/d/1LflPGXLbiw1lnS1U4FctC93rnGobeUEq/view?usp=share_link)
+#### [JAVA](https://drive.google.com/file/d/1sZbn6IanXgOKWSnQ3rqCPoQQSSgrR0y0/view?usp=share_link)
+#### [Object Oriented Analysis and Design](https://drive.google.com/file/d/1souHvggFkObf1SYKZab8yIbSl_0Qjn0i/view?usp=share_link)
 #### [Object Oriented Modelling and Design](https://drive.google.com/file/d/1LWOXU3yEA1WgVB6JQ9BVnw-nUqTpgAWl/view?usp=share_link)
 ### 5. Introduction to Industrial Management ~
 #### [Techniques of value analysis](https://drive.google.com/file/d/1K_OTvIezrOvvQKbeO-3oHXzzj9Z8djK2/view?usp=share_link)
