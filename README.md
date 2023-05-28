@@ -9,6 +9,7 @@ All Books ~ https://drive.google.com/drive/folders/1J8OtzQbJ3r8OHgES5eJABkhP-hui
 | | [Software Engineering A practitioner's Approach](https://drive.google.com/file/d/1jqY343VUgDt4_n17JjZNJsxNOk0MKqFG/view?usp=share_link) |
 | Conmpiler Design | [Compiler Design Principles Techniques Tools](https://drive.google.com/file/d/1LNsjLzWIbNym95jdUYtoZ5C8-JdfU7Ft/view?usp=share_link) |
 | Operating Systems | [Operating Systems A concept Based Approach](https://drive.google.com/file/d/1jzWvNcWswdd2zLXGbgbNNowNeZRx2doZ/view?usp=share_link) |
+| | [Operating Systems Concepts Silberchatz 10e (To be followed)](https://drive.google.com/drive/folders/1wjZH79PrYjQoqAOAkdCqFfa0BAZo1rWJ?usp=sharing) |
 | Object Oriented Programming | [Programming with Java - A primer](https://drive.google.com/file/d/1sZbn6IanXgOKWSnQ3rqCPoQQSSgrR0y0/view?usp=share_link) |
 | | [Object Oriented Systems Development](https://drive.google.com/file/d/1perVmSSLZJtppXfwuLN5rYtmrd70k5Gf/view?usp=share_link) |
 | | [Object Oriented Modelling and Design](https://drive.google.com/file/d/1LWOXU3yEA1WgVB6JQ9BVnw-nUqTpgAWl/view?usp=share_link) |
