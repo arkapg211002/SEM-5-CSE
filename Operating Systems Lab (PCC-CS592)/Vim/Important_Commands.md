@@ -49,4 +49,23 @@
 | D | delete entire line from the cursor position |
 | u | undo |
 | :red | redo |
-
+| /<type expression> | searches the expression in the current file |
+| n | searches the next occurences of the searched expression |
+| N | searches the previous occurences of the searched expression |
+| * | place the cursor under a word and type * . All the occurences of the word gets highlighted |
+| :vimgrep <expression> *.txt | finds all the occurrences of the expression in all the files |
+| :cn | go to next expression |
+| :cN | go to previous expression |
+| :badd <filename> | to add a file to the buffer of current vim session |
+| :bN | To switch files that are in the buffer. N represnts the Nth file in the buffer. The first file that you open using `vim <filename>` or `:edit <filename>` is assigned number 1 in the buffer | 
+| :bnext | move to next file in the buffer list |
+| :bprevious | move to previous file in the buffer list |
+| :buffers | list all the buffers |
+| :ball | load all the buffers |
+| :tabnew <file name> | Open new tab in the existing vim session |
+| :tabnext | move to the next tab |
+| :tabprevious | move to previous tab |
+| :tabclose | close current tab |
+| :tabfirst | move to first tab |
+| :tablast | move to last tab |
+| :new <filename> | open file in new window in the same vim sessoin |
