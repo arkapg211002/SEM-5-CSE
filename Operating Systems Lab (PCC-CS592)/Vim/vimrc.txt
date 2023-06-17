@@ -1,12 +1,14 @@
-syntax off
 set number
-set smartindent
-set smarttab
 set incsearch
 set hlsearch
-set history=1000
-filetype on
-set encoding=UTF-8
 set nocompatible
+set smartindent
+set smarttab
+set history=1000
+set encoding=UTF-8
 set ruler
+set mouse=a
+colorscheme industry
+syntax on
+filetype on
 
