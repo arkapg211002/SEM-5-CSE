@@ -12,6 +12,7 @@
 | vim -R `filename.txt` (write in terminal) | To open the file in read only mode |
 | vim `filename.txt` (write in terminal) | To open file in normal mode |
 | :wq | To save and close |
+| :colorscheme `ctrl+d` | List the available themes in vim |
 | :help | To open help window in vim |
 | :help `topic name` | To open help for particular topic if the topic name is known |
 | :helpgrep `name` | To open help if topic name is not known |
