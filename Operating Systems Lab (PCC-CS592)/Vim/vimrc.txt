@@ -1,0 +1,12 @@
+syntax off
+set number
+set smartindent
+set smarttab
+set incsearch
+set hlsearch
+set history=1000
+filetype on
+set encoding=UTF-8
+set nocompatible
+set ruler
+
