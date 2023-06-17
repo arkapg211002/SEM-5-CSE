@@ -70,3 +70,7 @@
 | :tablast | move to last tab |
 | :new `filename` | open file in new window in the same vim sessoin |
 | Folding functions in programs | Useful when there are multiple long functions.`:set foldenable` and `:set foldmethod=indent` to enable folding in the current file. `zo` to open folding.`zc` to close folding. `zR` to open all foldings |
+| vim -d `file1.txt` `file2.txt` | to show the difference between two files (terminal command) |
+| :diffsplit `file2.txt`| (vim command line) to show horizontally the differnce of `file1`(already open) with `file 2` |
+| :vert diffsplit `file2.txt`| (vim command line) to show differences vertically |
+
