@@ -1,0 +1,15 @@
+set number
+set incsearch
+set hlsearch
+set nocompatible
+set autoindent
+set smartindent
+set smarttab
+set history=1000
+set encoding=UTF-8
+set ruler
+set cursorline
+set mouse=a
+colorscheme sublimemonokai
+syntax on
+filetype on
