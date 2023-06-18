@@ -64,6 +64,11 @@ https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim
 
 ![6](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/6.png)
 
+## Cobalt colorscheme
+https://github.com/gkjgh/cobalt/blob/master/colors/cobalt.vim
+
+![7](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/7.png)
+
 ## Useful Vim commands
 
 | | Commands | Definition |
