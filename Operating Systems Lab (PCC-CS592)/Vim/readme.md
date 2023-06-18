@@ -1,6 +1,9 @@
 ## To upgarde vim to version 9.0
 https://itsfoss.com/install-latest-vim-ubuntu/
 
+## My simple vimrc for college purposes
+https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/vimrc.vim
+
 ## Colorscheme I use as a beginner
 https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/sublimemonokai.vim
 
