@@ -1,11 +1,43 @@
 ## To upgarde vim to version 9.0
 https://itsfoss.com/install-latest-vim-ubuntu/
 
-## My simple vimrc for college purposes
-https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/vimrc.vim
+## My simple vimrc
+```vim
+set number
+set incsearch
+set hlsearch
+set nocompatible
+set autoindent
+set smartindent
+set smarttab
+set history=1000
+set encoding=UTF-8
+set ruler
+set cursorline
+set mouse=a
+colorscheme sublimemonokai
+syntax on
+filetype on
+```
 
 ## Colorscheme I use as a beginner
 https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/sublimemonokai.vim
+
+To add sublimemonokai follow [Step 4](https://www.geeksforgeeks.org/customising-vim-from-scratch-without-plug-ins/)
+
+## Terminal in Vim (version above and from 8.0)
+```vim
+"open terminal on the right
+:bel vert term
+
+"to scroll in the terminal
+"place the cursor in the terminal then press the following keys
+"Ctrl + w , Shift + n
+
+"to use mouse in the terminal
+:set mouse=a
+
+```
 
 ## Useful Vim commands
 
