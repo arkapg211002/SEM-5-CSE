@@ -56,6 +56,12 @@ exit
 
 ![3](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/3.png)
 ![4](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/4.png)
+
+## PaperColor light colorscheme
+https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim
+
+![5](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/5.png)
+
 ## Useful Vim commands
 
 | | Commands | Definition |
