@@ -1,4 +1,4 @@
-## Learn
+## Learn Vim
 https://www.tutorialspoint.com/vim/index.htm
 
 ## To upgrade vim to version 9.0
@@ -19,6 +19,9 @@ set ruler
 set cursorline
 set mouse=a
 colorscheme sublimemonokai
+"set t_Co=256
+"set background=dark
+"colorscheme PaperColor
 syntax on
 filetype on
 ```
@@ -150,4 +153,29 @@ https://github.com/gkjgh/cobalt/blob/master/colors/cobalt.vim
 |74| :below vertical terminal | to open terminal on the right side of the window |
 |75| :colorscheme `ctrl d` | To get list of available inbuilt colorschemes for vim |
 |76| :hi CursorLine ctermbg=Grey | To set current cursor line as grey highlight | 
+|77| :print | To print file from vim |
+|78| :hardcopy `filename.ps` | Convert whole file in current vim window to postscript file |
 
+
+
+## To print source code file as pdf from vim and terminal
+In terminal
+```
+sudo apt install ghostscript
+```
+
+In vim convert the source code file to postscript file
+```
+:hardcopy filename.ps
+```
+
+In terminal
+```
+ps2pdf filename.ps filename.pdf
+```
+
+To open pdf file from terminal
+```
+sudo apt install xdg-utils
+xdg-open filename.pdf
+```
