@@ -27,16 +27,27 @@ To add sublimemonokai follow [Step 4](https://www.geeksforgeeks.org/customising-
 
 ## Terminal in Vim (version above and from 8.0)
 ```vim
-"open terminal on the right
+" open terminal on the right
 :bel vert term
 
-"to scroll in the terminal
-"place the cursor in the terminal then press the following keys
-"Ctrl + w , Shift + n
+" to scroll in the terminal
+" place the cursor in the terminal then press the following keys
+" Ctrl + w , Shift + n
 
-"to use mouse in the terminal
+" to use mouse in the terminal
 :set mouse=a
 
+" to come out of the scroll mode
+" place the cursor in the terminal at the end and type
+i
+
+" to exit terminal type and enter
+exit
+
+"in vim version 8.0
+" to exit terminal type and enter
+exit
+:q 
 ```
 
 ## Useful Vim commands
