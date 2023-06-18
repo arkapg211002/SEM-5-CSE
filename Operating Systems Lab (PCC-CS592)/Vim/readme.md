@@ -19,11 +19,12 @@ colorscheme sublimemonokai
 syntax on
 filetype on
 ```
-
 ## Colorscheme I use as a beginner
 https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/sublimemonokai.vim
 
 To add sublimemonokai follow [Step 4](https://www.geeksforgeeks.org/customising-vim-from-scratch-without-plug-ins/)
+
+![2](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2.png)
 
 ## Terminal in Vim (version above and from 8.0)
 ```vim
@@ -50,6 +51,8 @@ exit
 :q 
 ```
 
+![3](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/3.png)
+![4](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/4.png)
 ## Useful Vim commands
 
 | | Commands | Definition |
