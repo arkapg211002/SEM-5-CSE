@@ -1,4 +1,4 @@
-## To upgarde vim to version 9.0
+## To upgrade vim to version 9.0
 https://itsfoss.com/install-latest-vim-ubuntu/
 
 ## My simple vimrc
