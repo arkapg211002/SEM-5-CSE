@@ -1,3 +1,6 @@
+## Learn
+https://www.tutorialspoint.com/vim/index.htm
+
 ## To upgrade vim to version 9.0
 https://itsfoss.com/install-latest-vim-ubuntu/
 
