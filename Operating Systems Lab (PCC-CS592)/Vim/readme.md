@@ -1,3 +1,6 @@
+## To upgarde vim to version 9.0
+https://itsfoss.com/install-latest-vim-ubuntu/
+
 ## Useful Vim commands
 
 | Commands | Definition |
@@ -74,4 +77,5 @@
 | vim -d `file1.txt` `file2.txt` | to show the difference between two files (terminal command) |
 | :diffsplit `file2.txt`| (vim command line) to show horizontally the differnce of `file1`(already open) with `file 2` |
 | :vert diffsplit `file2.txt`| (vim command line) to show differences vertically |
+| :term | to open terminal in vim (default version of vim that is installed along with ubuntu has unscrollable terminal) |
 
