@@ -213,7 +213,7 @@ sudo apt install ghostscript
 
 In vim convert the source code file to postscript file
 ```
-:hardcopy filename.ps
+:hardcopy > filename.ps
 ```
 
 In terminal
