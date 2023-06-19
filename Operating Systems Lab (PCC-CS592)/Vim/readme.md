@@ -107,8 +107,11 @@ To close `:q`
 https://youtu.be/4KdAqsU7E-M
 
 ## My Vim Workspace 
-
+### Without devicons and with PaperColor light colorschme
 ![vimspace](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/vimspace.png)
+</br>
+### With devicons and challenger_deep colorscheme
+![vimspace2](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-20.png)
 
 ## Useful Vim commands
 
