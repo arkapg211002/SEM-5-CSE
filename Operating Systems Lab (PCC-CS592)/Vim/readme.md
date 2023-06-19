@@ -17,14 +17,20 @@ set history=1000
 set encoding=UTF-8
 set ruler
 set cursorline
+set nowrap
 set mouse=a
 set ttymouse=xterm2
-colorscheme sublimemonokai
-"set t_Co=256
-"set background=dark
-"colorscheme PaperColor
+"colorscheme sublimemonokai
+set t_Co=256
+"set background=light
+colorscheme challenger_deep
 syntax on
 filetype on
+"if !has('gui_running') && &term =~ '\%(screen\|tmux\)'
+"  let &t_8f = \<Esc>[38;2;%lu;%lu;%lum
+"  let &t_8b = \<Esc>[48;2;%lu;%lu;%lum
+"endif
+set termguicolors
 ```
 ## Colorscheme I use as a beginner
 https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/sublimemonokai.vim
@@ -117,7 +123,7 @@ https://github.com/gkjgh/cobalt/blob/master/colors/cobalt.vim
 |38| x | delete character from the cursor position |
 |39| X | delete previous character from the cursor psoition |
 |40| y | copy character from the cursor position |
-|41| yy | copy entire line |
+|41| yy | copy entire line. To copy multiple lines place the cursor from where you want to copy and then press nyy where n is the number of lines you want to copy. To copy in a range go to command line mode and type `:a,by` where a is the starting line number and b is the ending line number|
 |42| p | paste character at the current cursor position |
 |43| P | paste character before the cursor position |
 |44| dw | delete the current word where cursor is |
@@ -159,8 +165,23 @@ https://github.com/gkjgh/cobalt/blob/master/colors/cobalt.vim
 |79| :sp | Horizontal split |
 |80| :vsp | vertical split |
 |81| :set ttymouse=xterm2 | to resize split screens using mouse |
+|82| :set termguicolors | Set terminal to express colors like gVim |
 
+## Copy paste in vim
+### Within vim
+Go to command line mode 
+`:a,by` where a and b are the starting and ending line numbers
+`p` to paste
 
+### Paste the text in vim that is copied from outside vim
+`Shift + Insert`
+
+### Copy in vim and paste outside vim
+```
+:bel term
+gedit filename.extension
+```
+Gedit opens copy and paste outside vim where you want 
 
 ## To print source code file as pdf from vim and terminal
 In terminal
