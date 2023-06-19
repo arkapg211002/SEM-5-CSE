@@ -100,6 +100,12 @@ autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
 To open/refresh NERDTree file structure `:NERDTree` </br>
 To close `:q`
 
+## Vim devicons and NERDFont
+[Vim devicons](https://github.com/ryanoasis/vim-devicons) </br>
+[NERDFonts](https://github.com/ryanoasis/nerd-fonts#font-installation)
+### How to get vim devicons 
+https://youtu.be/4KdAqsU7E-M
+
 ## My Vim Workspace 
 
 ![vimspace](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/vimspace.png)
