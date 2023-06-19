@@ -21,8 +21,12 @@ set nowrap
 set mouse=a
 set ttymouse=xterm2
 set t_Co=256
-set background=light
-colorscheme PaperColor
+"set background=light
+"colorscheme PaperColor
+colorscheme=challenger_deep
+set termguicolors
+set path+=**
+set wildmenu
 syntax on
 filetype on
 "if !has('gui_running') && &term =~ '\%(screen\|tmux\)'
