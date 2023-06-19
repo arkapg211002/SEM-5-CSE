@@ -186,6 +186,8 @@ To close `:q`
 |80| :vsp | vertical split |
 |81| :set ttymouse=xterm2 | to resize split screens using mouse |
 |82| :set termguicolors | Set terminal to express colors like gVim |
+|83| `Shift`+`→` | To scroll right relatively faster |
+|84| `Shift`+`←` | To scroll left relatively faster |
 
 ## Copy paste in vim
 ### Within vim
