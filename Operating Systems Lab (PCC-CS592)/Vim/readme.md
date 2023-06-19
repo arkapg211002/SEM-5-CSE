@@ -4,7 +4,7 @@ https://www.tutorialspoint.com/vim/index.htm
 ## To upgrade vim to version 9.0
 https://itsfoss.com/install-latest-vim-ubuntu/
 
-## My simple vimrc
+## A simple .vimrc
 ```vim
 set number
 set incsearch
@@ -20,19 +20,18 @@ set cursorline
 set nowrap
 set mouse=a
 set ttymouse=xterm2
-"colorscheme sublimemonokai
 set t_Co=256
-"set background=light
-colorscheme challenger_deep
+set background=light
+colorscheme PaperColor
 syntax on
 filetype on
 "if !has('gui_running') && &term =~ '\%(screen\|tmux\)'
 "  let &t_8f = \<Esc>[38;2;%lu;%lu;%lum
 "  let &t_8b = \<Esc>[48;2;%lu;%lu;%lum
 "endif
-set termguicolors
+"set termguicolors
 ```
-## Colorscheme I use as a beginner
+## Add any external colorscheme
 https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/sublimemonokai.vim
 
 To add sublimemonokai follow [Step 4](https://www.geeksforgeeks.org/customising-vim-from-scratch-without-plug-ins/)
@@ -74,10 +73,31 @@ https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim
 
 ![6](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/6.png)
 
-## Cobalt colorscheme
-https://github.com/gkjgh/cobalt/blob/master/colors/cobalt.vim
+## NERDTree file structure
 
-![7](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/7.png)
+https://github.com/preservim/nerdtree
+```
+git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/vendor/start/nerdtree
+vim -u NONE -c "helptags ~/.vim/pack/vendor/start/nerdtree/doc" -c q
+```
+Additions in .vimrc
+```
+" Start NERDTree and leave the cursor in it.
+autocmd VimEnter * NERDTree
+" Exit Vim if NERDTree is the only window remaining in the only tab.
+autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
+" If another buffer tries to replace NERDTree, put it in the other window, and bring back NERDTree.
+autocmd BufEnter * if bufname('#') =~ 'NERD_tree_\d\+' && bufname('%') !~ 'NERD_tree_\d\+' && winnr('$') > 1 |
+    \ let buf=bufnr() | buffer# | execute "normal! \<C-W>w" | execute 'buffer'.buf | endif
+" Open the existing NERDTree on each new tab.
+autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
+```
+To open/refresh NERDTree file structure `:NERDTree` </br>
+To close `:q`
+
+## My Vim Workspace 
+
+![vimspace](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/vimspace.png)
 
 ## Useful Vim commands
 
