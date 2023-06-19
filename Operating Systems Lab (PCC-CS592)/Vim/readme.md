@@ -18,6 +18,7 @@ set encoding=UTF-8
 set ruler
 set cursorline
 set mouse=a
+set ttymouse=xterm2
 colorscheme sublimemonokai
 "set t_Co=256
 "set background=dark
@@ -155,6 +156,9 @@ https://github.com/gkjgh/cobalt/blob/master/colors/cobalt.vim
 |76| :hi CursorLine ctermbg=Grey | To set current cursor line as grey highlight | 
 |77| :print | To print file from vim |
 |78| :hardcopy `filename.ps` | Convert whole file in current vim window to postscript file |
+|79| :sp | Horizontal split |
+|80| :vsp | vertical split |
+|81| :set ttymouse=xterm2 | to resize split screens using mouse |
 
 
 
