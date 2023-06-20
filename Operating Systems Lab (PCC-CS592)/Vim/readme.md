@@ -120,7 +120,7 @@ Other plugins: https://vimawesome.com/
 
 ## My Vim Workspace 
 
-![Vimspace with plugins](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/vspace.png)
+![Vimspace with plugins](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-20%20(2).png)
 
 ## Useful Vim commands
 
@@ -248,4 +248,22 @@ To open pdf file from terminal
 ```
 sudo apt install xdg-utils
 xdg-open filename.pdf
+```
+## Customize bash shell
+https://www.linuxfordevices.com/tutorials/linux/beautify-bash-shell
+
+## Adding zsh and customizing
+https://youtu.be/yJpj33Jtpd0
+
+## To know and change default shell
+```
+# To see the current shell
+echo $SHELL
+
+# To list the shells
+cat /etc/shells
+
+# To change default shells
+chsh
+# Then give the path of the shell you want
 ```
