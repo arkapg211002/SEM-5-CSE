@@ -106,12 +106,21 @@ To close `:q`
 ### How to get vim devicons 
 https://youtu.be/4KdAqsU7E-M
 
+## Some helpful plugins
+1. https://github.com/vim-airline/vim-airline
+2. https://github.com/godlygeek/tabular/tree/master
+3. https://vimawesome.com/plugin/undotree-vim
+4. https://vimawesome.com/plugin/comfortable-motion-vim
+5. https://vimawesome.com/plugin/vim-signify
+6. https://github.com/skywind3000/vim-quickui/tree/master
+7. https://vimawesome.com/plugin/minimap-vim-hard-things
+8. https://vimawesome.com/plugin/indentline
+
+Other plugins: https://vimawesome.com/
+
 ## My Vim Workspace 
-### Without devicons and with PaperColor light colorschme
-![vimspace](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/vimspace.png)
-</br>
-### With devicons and challenger_deep colorscheme
-![vimspace2](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-20.png)
+
+![Vimspace with plugins](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/vspace.png)
 
 ## Useful Vim commands
 
