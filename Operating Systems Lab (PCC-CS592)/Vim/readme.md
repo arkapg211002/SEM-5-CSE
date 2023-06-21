@@ -120,7 +120,7 @@ Other plugins: https://vimawesome.com/
 
 ## My Vim Workspace 
 
-![Vimspace with plugins](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-20%20(2).png)
+![Vimspace with plugins](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-21%20(4).png)
 
 ## Useful Vim commands
 
