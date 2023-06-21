@@ -46,7 +46,16 @@
 |32| mv `old directory` `new directory` | Rename directory |
 |33| cd `.` | Shows the current directory you are in |
 |34| cd `..` | Goes to the parent directory |
-
+|| <br>Permissions</br> ||
+|35| chmod | Change the modes or permissions of files and directories |
+||| `chmod` can be used in `symbolic mode` and `absolute mode`. In symbolic mode, `+` is used to add permissions, `-` is used to remove permissions, `=` is used to set permissions |
+|36| chmod `user type` `operator` `permissions`  `filename` | `user type` can have `u` for user, `o` for other users, `g` for group. `operator` can have `+`,`-`,`=`. `permissions` can have `r` for read, `w` for write, `x` for execute. For example: `chmod u+rwx filename.txt`,`chmod g=rx filename.txt` |
+|37| chown `user` `filename` | Change ownership of `filename` to `user` |
+|38| chgrp `group` `filename` | Change ownership of `filename` to `group` |
+|39| sudo addgroup `group name` Add new group |
+|40| sudo adduser `user` `group name` | Add `user` to group `group name` |
+|| <b>Environment</b> ||
+|41| 
 
 
 
