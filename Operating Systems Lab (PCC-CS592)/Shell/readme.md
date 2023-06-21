@@ -55,8 +55,13 @@
 |39| sudo addgroup `group name` Add new group |
 |40| sudo adduser `user` `group name` | Add `user` to group `group name` |
 || <b>Environment</b> ||
-|41| 
-
+|41| `variable` | To store any value |
+|42| echo $`variable` | To display the variable |
+|43| echo $PWD | gives current working directory |
+|44| echo $RANDOM | Generates a random integer between 0 and 32,767 each time it is referenced |
+|45| echo $TERM | Refers to the display type |
+|46| echo $TZ | Gives the timezone |
+|47| echo $UID | Expands to the numeric user ID of the current user, initialized at the shell startup |
 
 
 
