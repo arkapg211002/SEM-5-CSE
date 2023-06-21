@@ -62,6 +62,18 @@
 |45| echo $TERM | Refers to the display type |
 |46| echo $TZ | Gives the timezone |
 |47| echo $UID | Expands to the numeric user ID of the current user, initialized at the shell startup |
+|48| grep `pattern` `files` | searches for a pattern in the files |
+|49| sort `filename` | sorts the lines of the file alphabetically or numerically. sort `-r` `filename` reverses the order in which the lines of the file are sorted |
+|50| sort +x `filename` | sorts the lines of the file ignoring the first x lines |
+|51| ls `-l` l `more` | `more` is used not to display long list of files all at once, shows `--MORE--` at the end of screen. Type any key to display the reminaing list. Press `Q` to come out of `--MORE--` list. l is the pipe | 
+|52| command `&` | To run a background process |
+|53| ps | List all the processes that are running |
+|54| ps -f | Lists all the processes that are running with more details |
+|55| kill `PID` | terminate a process by giving its PID |
+|56| top | shows information about physical and virtual memory, CPU usage, load averages, and your busy processes |
+|57| ping `hostname` | get the ip address and see how the host responds. Type `Ctrl + C` to come out of ping command |
+|58| finger | The finger command displays information about users on a given host. `sudo apt install finger` if `finger` not present |
+|| <b>Shell Scripting<b> ||
 
 
 
