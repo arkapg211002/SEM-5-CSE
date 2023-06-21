@@ -14,7 +14,7 @@ set mouse=a
 set ttymouse=xterm2
 set t_Co=256
 "set background=light
-colorscheme challenger_deep
+colorscheme monokai
 set termguicolors
 set path+=**
 set wildmenu
