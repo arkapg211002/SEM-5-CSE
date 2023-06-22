@@ -73,7 +73,8 @@
 |56| top | shows information about physical and virtual memory, CPU usage, load averages, and your busy processes |
 |57| ping `hostname` | get the ip address and see how the host responds. Type `Ctrl + C` to come out of ping command |
 |58| finger | The finger command displays information about users on a given host. `sudo apt install finger` if `finger` not present |
-|| <b>Shell Scripting<b> ||
+
+
 
 
 
