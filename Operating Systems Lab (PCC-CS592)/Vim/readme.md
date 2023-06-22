@@ -1,5 +1,6 @@
 ## Learn Vim
-https://www.tutorialspoint.com/vim/index.htm
+https://www.tutorialspoint.com/vim/index.htm </br>
+https://drive.google.com/file/d/10xnekN1o_JFprBa10NXjTteDAqgcbcZf/view?usp=drivesdk
 
 ## To upgrade vim to version 9.0
 https://itsfoss.com/install-latest-vim-ubuntu/
