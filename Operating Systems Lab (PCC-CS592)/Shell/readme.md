@@ -1,5 +1,6 @@
 ## Learn
-https://www.tutorialspoint.com/unix/index.htm
+https://www.tutorialspoint.com/unix/index.htm </br>
+https://drive.google.com/file/d/10wdqB__zm8dm-8Kayre9PEDRTRZCEva2/view?usp=drivesdk
 
 ## Useful shell commands
 
