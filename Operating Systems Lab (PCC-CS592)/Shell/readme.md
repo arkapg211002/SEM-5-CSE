@@ -73,6 +73,18 @@
 |56| top | shows information about physical and virtual memory, CPU usage, load averages, and your busy processes |
 |57| ping `hostname` | get the ip address and see how the host responds. Type `Ctrl + C` to come out of ping command |
 |58| finger | The finger command displays information about users on a given host. `sudo apt install finger` if `finger` not present |
+|| <b>Shell Scripting</b> ||
+|59| read `variable` | input value to variable |
+|60| readonly `variable` | make the variable only readonly, no furthur input possible |
+|61| unset `variable` | unset the variable from the list of variables that the shell tracks |
+|62| echo $$ | process id of the current script |
+|63| $* | takes the entire list as one argument |
+|64| $@ | takes the entire list and seperates them into arguments |
+|65| $? | gives the exit status of the previous run command. Tells whether it was successful or not |
+|66| `array name`=(`valeu1`...`value n`) | declare array |
+|67| ${array_name[index]} | access array elements |
+|68| `${array_name[*]}` `${array_name[@]}` | Access all the elements of the array |
+
 
 
 
