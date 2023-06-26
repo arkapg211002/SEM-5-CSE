@@ -216,6 +216,11 @@ Other plugins: https://vimawesome.com/
 |84| `Shift`+`←` | To scroll left relatively faster |
 |85| :bd `filename` | To delete any file from the buffer |
 |86| `Ctrl + w` `any arrow key` | To move between the split screens |
+|87| :set `laststatus`=2 | To see the status line |
+|88| :Explore | To see the file tree structure |
+|89| :Sexplore | To open file tree structure horizontally |
+|90| :Vexplore | To open file tree structure vertically |
+|91| :Rexplore | To go back to file tree structure from the file that was opened from the tree |
 
 ## Copy paste in vim
 ### Within vim
