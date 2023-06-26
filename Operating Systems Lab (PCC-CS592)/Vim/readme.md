@@ -28,6 +28,8 @@ colorscheme=challenger_deep
 set termguicolors
 set path+=**
 set wildmenu
+set wildmode=list:longest,full
+set showcmd
 syntax on
 filetype on
 filetype plugin on
