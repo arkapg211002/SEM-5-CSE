@@ -212,6 +212,7 @@ Other plugins: https://vimawesome.com/
 |82| :set termguicolors | Set terminal to express colors like gVim |
 |83| `Shift`+`→` | To scroll right relatively faster |
 |84| `Shift`+`←` | To scroll left relatively faster |
+|85| :bd `filename` | To delete any file from the buffer |
 
 ## Copy paste in vim
 ### Within vim
