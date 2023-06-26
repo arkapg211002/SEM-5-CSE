@@ -213,7 +213,7 @@ Other plugins: https://vimawesome.com/
 |83| `Shift`+`→` | To scroll right relatively faster |
 |84| `Shift`+`←` | To scroll left relatively faster |
 |85| :bd `filename` | To delete any file from the buffer |
-|86| Ctrl + w any arrow key | To move between the split screens |
+|86| `Ctrl + w` `any arrow key` | To move between the split screens |
 
 ## Copy paste in vim
 ### Within vim
