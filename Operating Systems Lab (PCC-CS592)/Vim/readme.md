@@ -45,8 +45,6 @@ https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20
 
 To add sublimemonokai follow [Step 4](https://www.geeksforgeeks.org/customising-vim-from-scratch-without-plug-ins/)
 
-![2](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2.png)
-
 ## Terminal in Vim (version above and from 8.0)
 ```vim
 " open terminal on the right
@@ -71,16 +69,13 @@ exit
 exit
 :q 
 ```
-
-![3](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/3.png)
-![4](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/4.png)
-
 ## PaperColor light and dark colorscheme
 https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim
 
 ![5](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/5.png)
 
-![6](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/6.png)
+## Vim setup without plugins
+![no plugins](https://raw.githubusercontent.com/arkapg211002/SEM-5-CSE/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-27.png)
 
 ## NERDTree file structure
 
