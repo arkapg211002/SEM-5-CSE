@@ -24,7 +24,7 @@ set ttymouse=xterm2
 set t_Co=256
 "set background=light
 "colorscheme PaperColor
-colorscheme=challenger_deep
+colorscheme ron
 set termguicolors
 set path+=**
 set wildmenu
@@ -33,6 +33,7 @@ set showcmd
 syntax on
 filetype on
 filetype plugin on
+set laststatus=2
 "if !has('gui_running') && &term =~ '\%(screen\|tmux\)'
 "  let &t_8f = \<Esc>[38;2;%lu;%lu;%lum
 "  let &t_8b = \<Esc>[48;2;%lu;%lu;%lum
