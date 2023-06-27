@@ -222,6 +222,8 @@ Other plugins: https://vimawesome.com/
 |89| :Sexplore | To open file tree structure horizontally |
 |90| :Vexplore | To open file tree structure vertically |
 |91| :Rexplore | To go back to file tree structure from the file that was opened from the tree |
+|92| :Lexplore | To open file tree on the left |
+|93| :Lexplore! | To open the file tree on the right |
 
 ## Copy paste in vim
 ### Within vim
