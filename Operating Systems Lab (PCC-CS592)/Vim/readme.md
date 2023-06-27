@@ -224,6 +224,7 @@ Other plugins: https://vimawesome.com/
 |91| :Rexplore | To go back to file tree structure from the file that was opened from the tree |
 |92| :Lexplore | To open file tree on the left |
 |93| :Lexplore! | To open the file tree on the right |
+|94| :Ntree `directory name` | To change the tree top to the directory under the cursor. Go to the `..` at the top and press enter to change the current directory to the parent |
 
 ## Copy paste in vim
 ### Within vim
