@@ -75,7 +75,7 @@ https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim
 ![5](https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/5.png)
 
 ## Vim setup without plugins
-![no plugins](https://raw.githubusercontent.com/arkapg211002/SEM-5-CSE/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-27.png)
+![no plugins](https://raw.githubusercontent.com/arkapg211002/SEM-5-CSE/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/screenshots/2023-06-28%20(1).png)
 
 ## NERDTree file structure
 
