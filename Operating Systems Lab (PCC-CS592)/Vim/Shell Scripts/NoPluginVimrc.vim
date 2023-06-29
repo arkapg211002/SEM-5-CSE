@@ -169,13 +169,13 @@ set statusline+=%n
 set statusline+=\ 
 set statusline+=|
 set statusline+=%=
-set statusline+=%4*
+set statusline+=%3*
 set statusline+=|
 set statusline+=\ 
 set statusline+=%F
 set statusline+=\ 
 set statusline+=|
-set statusline+=%3*
+set statusline+=%4*
 set statusline+=|
 set statusline+=\ 
 set statusline+=%P
@@ -196,10 +196,10 @@ set statusline+=\
 set statusline+=|
 hi User6 ctermbg=cyan ctermfg=white guibg=cyan guifg=white
 hi User1 ctermbg=darkblue ctermfg=white guibg=darkblue guifg=white
-hi User3 ctermbg=lightblue ctermfg=black guibg=lightblue guifg=black
+hi User3 ctermbg=darkgrey ctermfg=white guibg=blue guifg=white
 hi User4 ctermbg=darkcyan ctermfg=white guibg=darkcyan guifg=white
 hi User7 ctermbg=grey ctermfg=black guibg=grey guifg=black
-hi User2 ctermbg=blue ctermfg=white guibg=blue guifg=white
+hi User2 ctermbg=darkblue ctermfg=white guibg=darkblue guifg=white
 
 function! StatuslineMode()
   let l:mode=mode()
