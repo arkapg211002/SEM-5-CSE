@@ -8,37 +8,23 @@ https://itsfoss.com/install-latest-vim-ubuntu/
 ## A simple .vimrc
 ```vim
 set number
-set incsearch
-set hlsearch
-set nocompatible
 set autoindent
 set smartindent
 set smarttab
 set history=1000
-set encoding=UTF-8
-set ruler
-set cursorline
-set nowrap
 set mouse=a
 set ttymouse=xterm2
 set t_Co=256
-"set background=light
-"colorscheme PaperColor
-colorscheme ron
-set termguicolors
 set path+=**
 set wildmenu
-set wildmode=list:longest,full
-set showcmd
-syntax on
-filetype on
-filetype plugin on
+set showtabline=2
 set laststatus=2
-"if !has('gui_running') && &term =~ '\%(screen\|tmux\)'
-"  let &t_8f = \<Esc>[38;2;%lu;%lu;%lum
-"  let &t_8b = \<Esc>[48;2;%lu;%lu;%lum
-"endif
-"set termguicolors
+set cursorline
+set cursorlineopt=number
+colorscheme torte
+hi CursorLineNr cterm=NONE ctermbg=235 ctermfg=DarkRed
+hi LineNr ctermbg=235 ctermfg=LightGrey
+
 ```
 ## Add any external colorscheme
 https://github.com/arkapg211002/SEM-5-CSE/blob/main/Operating%20Systems%20Lab%20(PCC-CS592)/Vim/sublimemonokai.vim
