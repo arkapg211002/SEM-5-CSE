@@ -1,0 +1,21 @@
+People use ATM machine because of,Preferred Language you want to be used in ATM,How often do you visit ATM?,What denominations you prefer while withdrawing cash from ATM?,Do you want a receipt of transaction from ATM?,"After how many declines in giving wrong information, card should be blocked?",Are you satisfied with service provided in an ATM?
+Cash Withdrawals,English,Monthly,500,Yes,2,Yes
+Cash Withdrawals,English,Monthly,500,Yes,3,Yes
+Cash Withdrawals,English,Monthly,500,Maybe,4,Yes
+Fund Transfer,English,Weekly,500,Yes,3,No
+Check balance,English,Weekly,200,Yes,3,Yes
+Change PIN,Hindi,Weekly,200,Yes,2,No
+Cash Withdrawals,Bengali,Monthly,100,Yes,4,Yes
+Check balance,English,Weekly,500,Yes,2,Yes
+Cash Withdrawals,Hindi,Weekly,200,Yes,3,No
+Cash Withdrawals,English,Weekly,200,No,2,Yes
+Fund Transfer,Bengali,Daily,100,Maybe,3,Maybe
+Fund Transfer,Hindi,Rarely,200,Maybe,2,Maybe
+Change PIN,English,Weekly,500,No,2,Yes
+Change PIN,English,Rarely,100,Maybe,2,Maybe
+Cash Withdrawals,Hindi,Rarely,100,Maybe,2,Maybe
+Cash Withdrawals,English,Daily,500,Yes,2,Yes
+Cash Withdrawals,English,Monthly,200,No,4,Yes
+Change PIN,Bengali,Monthly,200,Yes,3,No
+Check balance,English,Monthly,100,Yes,4,Maybe
+Check balance,English,Monthly,500,No,2,Maybe
