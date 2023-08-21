@@ -1,63 +1,66 @@
 #!/bin/bash
+#13000121058
 
-students_file="Students.dat"
 
-print_menu() {
-    echo "Menu:"
-    echo "1. Add more student records"
-    echo "2. Sort records in reverse order of Roll number"
-    echo "3. Replace lower case letters with upper case letters"
-    echo "4. Find records with unique names and append them"
-    echo "5. Display the 2nd and 3rd lines"
-    echo "6. Exit"
+
+if [ "$#" -ne 1 ]; then
+	exit
+fi
+
+file=$1
+
+
+add()
+{
+	read -p "Enter the name : " name
+	read -p "Enter roll number : " roll
+	read -p "Enter the phone number : " phn
+	read -p "Enter the address : " adr
+	echo "$name|$roll|$phn|$adr" >> "$file"
 }
 
-add_student() {
-    echo "Enter Name: "
-    read name
-    echo "Enter Roll: "
-    read roll
-    echo "Enter Phone: "
-    read phone
-    echo "Enter Address: "
-    read address
-    echo "$name|$roll|$phone|$address" >> "$students_file"
-    echo "Student record added."
-}
-
-while true; do
-    print_menu
-    echo "Enter your choice: "
-    read choice
-
-    case $choice in
-        1)
-            add_student
-            ;;
-        2)
-            sort -t'|' -k2 -nr "$students_file" > Sorted.dat
-            echo "Records sorted by Roll number in reverse order."
-            ;;
-        3)
-            tr 'a-z' 'A-Z' < "$students_file" > SortedUpper.dat
-            mv SortedUpper.dat "$students_file"
-            echo "Lower case letters replaced with upper case."
-            ;;
-        4)
-            sort -t'|' -u -k1,1 "$students_file" > Unique.dat
-	    mv Unique.dat "$students_file"
-            echo "Records with unique names appended."
-            ;;
-        5)
-            sed -n '2,3p' "$students_file"
-            ;;
-        6)
-            echo "Exiting."
-            exit 0
-            ;;
-        *)
-            echo "Invalid choice. Please enter a valid option."
-            ;;
-    esac
+while true ; do
+	echo "1. Add details"
+	echo "2. Sort records in reverse order according to roll number "
+	echo "3. Replace lower case with upper case "
+	echo "4. Find records with unique number "
+	echo "5. Display 2nd and 3rd line "
+	echo "6. exit"
+	echo
+	read ch
+	if [ -z "$file" ]; then
+		echo "$file is empty. No tasks can be performed"
+		exit
+	fi
+	case "$ch" in
+		1) 
+			add
+			;;
+		2)
+			sort -t'|' -k2 -nr "$file" > Sorted.dat
+			;;
+		3)
+			tr [:lower:] [:upper:] < Sorted.dat > SortedUpper.dat
+			mv SortedUpper.dat Sorted.dat
+			;;
+		4)
+			sort -t'|' -u -k1,1 Sorted.dat >> "$file"
+			;;
+		5)
+			newfile="p.dat"
+			sed -n '2,3p' "$file" > "$newfile"
+			if [ -z $newfile ]; then
+				echo "File has less than 3 lines"
+			else
+				cat "$newfile"
+			fi
+			;;
+		6)
+			exit
+			;;
+		*)
+			echo "Invalid choice"
+			;;
+	esac
 done
 
