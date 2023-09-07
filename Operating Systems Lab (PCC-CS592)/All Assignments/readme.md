@@ -1,4 +1,4 @@
-# Assignments
+# Lab Assignments
 
 # [Run Ubuntu GUI desktop in windows 10 without VirtualBox](https://gist.github.com/Ta180m/e1471413f62e3ed94e72001d42e77e22#file-wsl-2-gnome-desktop-md)
 ## Requirements:
@@ -59,6 +59,9 @@ gnome-session
 ```
 
 If you don't get any error messages, you should be good. Wait a few seconds for GNOME to start up.
+
+![Ubuntu 20.04 Desktop](https://raw.githubusercontent.com/arkapg211002/SEM-5-CSE/main/Operating%20Systems%20Lab%20(PCC-CS592)/All%20Assignments/Screenshot%20(41).png)
+
 
 
 
