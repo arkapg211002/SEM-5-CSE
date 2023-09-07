@@ -1,6 +1,6 @@
 # Assignments
 
-# Run Ubuntu GUI desktop in windows 10 without VirtualBox
+# [Run Ubuntu GUI desktop in windows 10 without VirtualBox](https://gist.github.com/Ta180m/e1471413f62e3ed94e72001d42e77e22#file-wsl-2-gnome-desktop-md)
 ## Requirements:
  - WSL 2
  - Ubuntu 20.04 (other distros not tested)
