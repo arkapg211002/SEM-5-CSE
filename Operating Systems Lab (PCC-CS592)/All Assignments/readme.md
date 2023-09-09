@@ -62,7 +62,7 @@ If you don't get any error messages, you should be good. Wait a few seconds for 
 
 ![Ubuntu 20.04 Desktop](https://raw.githubusercontent.com/arkapg211002/SEM-5-CSE/main/Operating%20Systems%20Lab%20(PCC-CS592)/All%20Assignments/Screenshot%20(41).png)
 
-## Using Remote Desktop Connection
+## Using Remote Desktop Connection (Another method)
 
 Follow :- https://bwgjoseph.com/enhance-your-wsl-2-experience-with-xfce4
 ```
