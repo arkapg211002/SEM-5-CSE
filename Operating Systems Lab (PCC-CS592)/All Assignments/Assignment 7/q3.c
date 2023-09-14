@@ -1,3 +1,11 @@
+/*
+	Write a Program to create a child process. 
+	The parent will send a signal to the child every 5 seconds and the child will handle the signal and 
+	check if an input number is a leap year or not.
+
+	13000121058
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
