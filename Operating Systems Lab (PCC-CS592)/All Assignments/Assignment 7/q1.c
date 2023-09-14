@@ -1,3 +1,11 @@
+/*
+	Write a Program to demonstrate the use of signal. The process will print a message infinitely until an interrupt signal occurs. 
+	It will handle the signal and will print a message along with the signal number that it has got.(Help: signal(SIGINT,SIG_DFL))
+
+	13000121058
+
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
