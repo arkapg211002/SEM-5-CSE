@@ -1,3 +1,9 @@
+/*
+	Write a program to demonstrate the use of signal. Parent process will stop until an alarm received from child process.
+
+	13000121058
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
