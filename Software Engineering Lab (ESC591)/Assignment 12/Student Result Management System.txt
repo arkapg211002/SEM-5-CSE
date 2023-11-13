@@ -1,0 +1,18 @@
+Website Link : https://arkapratimghoshsrms13000121058.000webhostapp.com/index.php
+
+In case the website does not respond while running (Due to the large files / poor internet connection), 
+I would request to open the link above again in a new tab.
+
+Admin Login
+Username: admin 
+Password: admin
+
+Teacher Login
+Username: teacher 
+Password: 1234
+
+Result Generation sample 
+Roll Number: 13000121058 
+Classname: Third Year Section-A
+
+Github Repo Link : https://github.com/arkapg211002/Student-Result-Management-System/tree/main
