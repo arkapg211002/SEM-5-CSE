@@ -28,7 +28,7 @@ void main()
 {
 	key_t key=ftok("memory",67);
 	int item;
-	int shmid=shmget(key,sizeof(shared),0666|IPC_CREAT);
+	int shmid=shmget(key,sizeof(sd),0666|IPC_CREAT);
 	if(shmid==-1) printf("Cannot Create Shared Memory\n");
 	shared=(sd *)shmat(shmid,(void *)0,0);
 	shared->in=0;
