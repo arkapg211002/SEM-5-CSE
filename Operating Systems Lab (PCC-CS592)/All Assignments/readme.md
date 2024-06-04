@@ -1,3 +1,9 @@
+## After 1 year I can say that [LinuxMint](https://linuxmint.com/) is a better option for a beginner
+### Want to have a mac like experience in linux ?
+Follow : https://www.youtube.com/watch?v=mFPDBruqmJQ
+![lm2]()
+
+
 # Lab Assignments
 
 [Operating System Lab Playlist](https://dextutor.com/courses/operating-system-programs/)
