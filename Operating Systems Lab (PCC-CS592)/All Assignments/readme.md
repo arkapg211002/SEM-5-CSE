@@ -1,7 +1,8 @@
 ## After 1 year I can say that [LinuxMint](https://linuxmint.com/) is a better option for a beginner
 ### Want to have a mac like experience in linux ?
 Follow : https://www.youtube.com/watch?v=mFPDBruqmJQ
-![lm2]()
+
+![lm2](https://raw.githubusercontent.com/arkapg211002/SEM-5-CSE/main/Operating%20Systems%20Lab%20(PCC-CS592)/All%20Assignments/lm2.png)
 
 
 # Lab Assignments
