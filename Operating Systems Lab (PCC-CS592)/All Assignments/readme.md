@@ -3,6 +3,7 @@
 [Operating System Lab Playlist](https://dextutor.com/courses/operating-system-programs/)
 
 # Using Virtual Box is the easiest option 
+After setting up the virtual machine, add windows drive to the shared folder, open the linux distro terminal, install the guest additions, `reboot` and run `sudo gpasswd -a <your username> vboxsf` to get access to the shared folder and `reboot`
 
 # [Run Ubuntu GUI desktop in windows 10 without VirtualBox](https://gist.github.com/Ta180m/e1471413f62e3ed94e72001d42e77e22#file-wsl-2-gnome-desktop-md)
 
