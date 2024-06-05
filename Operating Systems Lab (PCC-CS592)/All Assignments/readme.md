@@ -1,4 +1,4 @@
-## After around a year I can say that [LinuxMint](https://linuxmint.com/) is a better option for a beginner
+## [LinuxMint](https://linuxmint.com/) is a lightweight alternative to Ubuntu 
 ### Want to have a mac like experience in linux ?
 Follow : https://www.youtube.com/watch?v=mFPDBruqmJQ
 
